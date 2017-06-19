@@ -9,9 +9,5 @@
     "url": "git@github.com:nathanredblur/html-angularjs-brunch.git"
   },
   "main": "./lib/index",
-  "scripts": {
-    "prepublish": "rm -rf lib && coffee --bare --output lib/ src/"
-  },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
